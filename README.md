@@ -7,4 +7,4 @@
 > Autor: Adrian Garcia Cabrera
 
 
-- Link repositorio remoto:
+- Link repositorio remoto: https://github.com/Kbrerag23/carpeta-ejercicios
